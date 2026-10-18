@@ -1,0 +1,153 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1280' height='930' viewBox='0 0 1280 930'>
+<rect width='100%' height='100%' fill='#ffffff'/>
+<style>text{font-family:system-ui,-apple-system,'Segoe UI',Arial,sans-serif;fill:#17252d}.title{font-size:30px;font-weight:700}.subtitle{font-size:16px;fill:#53636b}.axis{font-size:16px;font-weight:650}.row{font-size:15px}.value{font-size:16px;font-weight:700}.legend{font-size:14px;fill:#53636b}</style>
+<text x='54' y='52' class='title'>Средний zMI по частотным диапазонам</text>
+<text x='54' y='82' class='subtitle'>Неинвазивные каналы · цель: угол движения · описательная сводка одного участника</text>
+<text x='415' y='126' text-anchor='middle' class='axis'>дельта</text>
+<text x='585' y='126' text-anchor='middle' class='axis'>тета</text>
+<text x='755' y='126' text-anchor='middle' class='axis'>альфа</text>
+<text x='925' y='126' text-anchor='middle' class='axis'>низкая бета</text>
+<text x='1095' y='126' text-anchor='middle' class='axis'>высокая бета</text>
+<text x='312' y='184' text-anchor='end' class='row'>Сжатие · левая · до</text>
+<rect x='330' y='150' width='170' height='54' fill='#D56835' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='184' text-anchor='middle' class='value'>2.88</text>
+<rect x='500' y='150' width='170' height='54' fill='#D56835' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='184' text-anchor='middle' class='value'>1.90</text>
+<rect x='670' y='150' width='170' height='54' fill='#D56835' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='184' text-anchor='middle' class='value'>1.98</text>
+<rect x='840' y='150' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='184' text-anchor='middle' class='value'>1.17</text>
+<rect x='1010' y='150' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='184' text-anchor='middle' class='value'>1.17</text>
+<text x='312' y='238' text-anchor='end' class='row'>Сжатие · левая · после</text>
+<rect x='330' y='204' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='238' text-anchor='middle' class='value'>-0.31</text>
+<rect x='500' y='204' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='238' text-anchor='middle' class='value'>-0.21</text>
+<rect x='670' y='204' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='238' text-anchor='middle' class='value'>-0.48</text>
+<rect x='840' y='204' width='170' height='54' fill='#094E53' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='238' text-anchor='middle' class='value'>-0.85</text>
+<rect x='1010' y='204' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='238' text-anchor='middle' class='value'>-0.40</text>
+<text x='312' y='292' text-anchor='end' class='row'>Сжатие · правая · до</text>
+<rect x='330' y='258' width='170' height='54' fill='#D56835' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='292' text-anchor='middle' class='value'>3.23</text>
+<rect x='500' y='258' width='170' height='54' fill='#D56835' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='292' text-anchor='middle' class='value'>1.69</text>
+<rect x='670' y='258' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='292' text-anchor='middle' class='value'>1.56</text>
+<rect x='840' y='258' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='292' text-anchor='middle' class='value'>1.30</text>
+<rect x='1010' y='258' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='292' text-anchor='middle' class='value'>1.10</text>
+<text x='312' y='346' text-anchor='end' class='row'>Сжатие · правая · после</text>
+<rect x='330' y='312' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='346' text-anchor='middle' class='value'>0.70</text>
+<rect x='500' y='312' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='346' text-anchor='middle' class='value'>0.28</text>
+<rect x='670' y='312' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='346' text-anchor='middle' class='value'>0.07</text>
+<rect x='840' y='312' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='346' text-anchor='middle' class='value'>0.27</text>
+<rect x='1010' y='312' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='346' text-anchor='middle' class='value'>1.06</text>
+<text x='312' y='400' text-anchor='end' class='row'>Вращение · левая · до</text>
+<rect x='330' y='366' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='400' text-anchor='middle' class='value'>0.04</text>
+<rect x='500' y='366' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='400' text-anchor='middle' class='value'>0.30</text>
+<rect x='670' y='366' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='400' text-anchor='middle' class='value'>0.31</text>
+<rect x='840' y='366' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='400' text-anchor='middle' class='value'>0.27</text>
+<rect x='1010' y='366' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='400' text-anchor='middle' class='value'>0.06</text>
+<text x='312' y='454' text-anchor='end' class='row'>Вращение · левая · после</text>
+<rect x='330' y='420' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='454' text-anchor='middle' class='value'>-0.45</text>
+<rect x='500' y='420' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='454' text-anchor='middle' class='value'>0.07</text>
+<rect x='670' y='420' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='454' text-anchor='middle' class='value'>0.01</text>
+<rect x='840' y='420' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='454' text-anchor='middle' class='value'>0.29</text>
+<rect x='1010' y='420' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='454' text-anchor='middle' class='value'>-0.10</text>
+<text x='312' y='508' text-anchor='end' class='row'>Вращение · правая · до</text>
+<rect x='330' y='474' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='508' text-anchor='middle' class='value'>0.60</text>
+<rect x='500' y='474' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='508' text-anchor='middle' class='value'>0.65</text>
+<rect x='670' y='474' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='508' text-anchor='middle' class='value'>1.03</text>
+<rect x='840' y='474' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='508' text-anchor='middle' class='value'>0.55</text>
+<rect x='1010' y='474' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='508' text-anchor='middle' class='value'>0.72</text>
+<text x='312' y='562' text-anchor='end' class='row'>Вращение · правая · после</text>
+<rect x='330' y='528' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='562' text-anchor='middle' class='value'>1.52</text>
+<rect x='500' y='528' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='562' text-anchor='middle' class='value'>1.30</text>
+<rect x='670' y='528' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='562' text-anchor='middle' class='value'>0.98</text>
+<rect x='840' y='528' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='562' text-anchor='middle' class='value'>0.87</text>
+<rect x='1010' y='528' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='562' text-anchor='middle' class='value'>0.92</text>
+<text x='312' y='616' text-anchor='end' class='row'>Тэппинг · левая · до</text>
+<rect x='330' y='582' width='170' height='54' fill='#094E53' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='616' text-anchor='middle' class='value'>-0.71</text>
+<rect x='500' y='582' width='170' height='54' fill='#094E53' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='616' text-anchor='middle' class='value'>-1.07</text>
+<rect x='670' y='582' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='616' text-anchor='middle' class='value'>-0.46</text>
+<rect x='840' y='582' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='616' text-anchor='middle' class='value'>-0.57</text>
+<rect x='1010' y='582' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='616' text-anchor='middle' class='value'>-0.57</text>
+<text x='312' y='670' text-anchor='end' class='row'>Тэппинг · левая · после</text>
+<rect x='330' y='636' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='670' text-anchor='middle' class='value'>0.52</text>
+<rect x='500' y='636' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='670' text-anchor='middle' class='value'>0.33</text>
+<rect x='670' y='636' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='670' text-anchor='middle' class='value'>0.32</text>
+<rect x='840' y='636' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='670' text-anchor='middle' class='value'>0.56</text>
+<rect x='1010' y='636' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='670' text-anchor='middle' class='value'>0.55</text>
+<text x='312' y='724' text-anchor='end' class='row'>Тэппинг · правая · до</text>
+<rect x='330' y='690' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='724' text-anchor='middle' class='value'>1.13</text>
+<rect x='500' y='690' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='724' text-anchor='middle' class='value'>1.38</text>
+<rect x='670' y='690' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='724' text-anchor='middle' class='value'>0.78</text>
+<rect x='840' y='690' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='724' text-anchor='middle' class='value'>0.89</text>
+<rect x='1010' y='690' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='724' text-anchor='middle' class='value'>0.51</text>
+<text x='312' y='778' text-anchor='end' class='row'>Тэппинг · правая · после</text>
+<rect x='330' y='744' width='170' height='54' fill='#D56835' stroke='#ffffff' stroke-width='3'/>
+<text x='415' y='778' text-anchor='middle' class='value'>3.13</text>
+<rect x='500' y='744' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='585' y='778' text-anchor='middle' class='value'>1.46</text>
+<rect x='670' y='744' width='170' height='54' fill='#D56835' stroke='#ffffff' stroke-width='3'/>
+<text x='755' y='778' text-anchor='middle' class='value'>1.82</text>
+<rect x='840' y='744' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='925' y='778' text-anchor='middle' class='value'>1.35</text>
+<rect x='1010' y='744' width='170' height='54' fill='#EFF4F2' stroke='#ffffff' stroke-width='3'/>
+<text x='1095' y='778' text-anchor='middle' class='value'>1.13</text>
+<text x='54' y='835' class='legend'>Ниже суррогатного среднего</text>
+<rect x='260' y='816' width='92' height='22' fill='#094E53'/>
+<rect x='352' y='816' width='92' height='22' fill='#EFF4F2'/>
+<rect x='444' y='816' width='92' height='22' fill='#EFF4F2'/>
+<rect x='536' y='816' width='92' height='22' fill='#EFF4F2'/>
+<rect x='628' y='816' width='92' height='22' fill='#D56835'/>
+<rect x='720' y='816' width='92' height='22' fill='#D56835'/>
+<rect x='812' y='816' width='92' height='22' fill='#D56835'/>
+<text x='904' y='835' class='legend'>Выше суррогатного среднего</text>
+<text x='54' y='882' class='subtitle'>zMI показывает положение наблюдаемой взаимной информации относительно распределения 200 фазово-рандомизированных суррогатов.</text>
+</svg>

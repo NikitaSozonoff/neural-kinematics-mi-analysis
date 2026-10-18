@@ -1,0 +1,30 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Raw or derived research data
+data/
+outputs/
+results/
+*.fif
+*.npy
+*.npz
+*.csv
+*.tsv
+*.xlsx
+*.pickle
+*.pkl
+
+# Local configuration and logs
+.env
+*.log
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
